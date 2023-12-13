@@ -1,11 +1,11 @@
 
 
 <h1 align="center">Hi there👋, I'm Dastan <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Software Engineer (and a beginner designer) from Qazaqstan</h3>
+<h3 align="center">A career changer form Lawyer to Software Engineer (and a beginner designer) from Qazaqstan</h3>
 
-- 🔭 I’m currently working on my **Python Course**
+- 🔭 I’m currently working on my **Portfolio Website using React Framework**
 
-- 🌱 I’m continuously learning **Python, JavaScript HTML5 and CSS3**
+- 🌱 I’m continuously learning **Python, JavaScript, HTML5 and CSS3**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
@@ -47,8 +47,8 @@
 </p>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=dastanramazan&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dastanramazan&theme=react&layout=compact" />
 </p>
 
 ------
