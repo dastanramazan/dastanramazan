@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi there👋, I'm Dastan 🐺 <img height="40" src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png"> </h1>
-<h3 align="center">A career changer from Lawyer to Software Engineer (and a beginner designer) from Qazaqstan</h3>
+<h3 align="center">A career changer from Lawyer to Software Engineer</h3>
 
 - 🔭 I’m currently working on my **Portfolio Website using React Framework**
 
